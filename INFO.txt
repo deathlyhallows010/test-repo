@@ -1,0 +1,7 @@
+git init # intitalizes git 
+git status # check the current status
+touch app.py # creates app.py
+git status
+git add app.py
+git status
+git commit -m "Created a simple Flask application"
