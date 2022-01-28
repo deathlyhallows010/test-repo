@@ -7,7 +7,7 @@ git status
 git commit -m "Created a simple Flask application"
 git remote add origin https://github.com/deathlyhallows010/test-repo.git
 git push # if the repo already have a master branch
-git pust --set-upstream origin master # if not then this
+git push --set-upstream origin master # if not then this
 
 
 
